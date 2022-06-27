@@ -1,5 +1,7 @@
 Data Analysis with Python - Coursera
+
 About the course:
+
 This course taken the learners from the basics of Python to exploring many different types of data. learning how to prepare data for analysis, perform simple statistical analysis, create meaningful data visualizations, predict future trends from data, and more.
 
 Topics covered:
